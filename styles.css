@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+h1 { color: #004aad; }
+p  { color: #333; }
